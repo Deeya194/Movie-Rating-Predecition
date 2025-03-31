@@ -1,1 +1,1 @@
-# Movie-Rating-Predecition
+# Movie-Rating-Predection
